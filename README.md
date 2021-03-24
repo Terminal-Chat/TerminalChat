@@ -4,5 +4,5 @@
 
 TerminalChat is a completely anonymous terminal chat.<br>
 TerminalChat uses SSH for its security and offers its anonymity via not saving chat-logs,
-ips.<br>
+ip's.<br>
 We offer true security through SSH and in the future we will add another layer of ETE (End-To-End) encryption
