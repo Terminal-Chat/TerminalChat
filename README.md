@@ -5,4 +5,9 @@
 TerminalChat is a completely anonymous terminal chat.<br>
 TerminalChat uses SSH for its security and offers its anonymity via not saving chat-logs,
 ip's.<br>
-We offer true security through SSH and in the future we will add another layer of ETE (End-To-End) encryption
+We offer fully anonymous chatroom service thru our own framework and server, and extremly easy to setup.
+It's something like tor chatrooms, but it's thru terminal with few topics
+
+#How it works?
+
+
