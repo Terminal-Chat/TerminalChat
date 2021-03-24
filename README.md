@@ -1,5 +1,3 @@
-# TerminalChat
-
 ![](https://media.discordapp.net/attachments/824045796156112896/824314563050471464/Terminal_Chat_banner.png)
 
 ## What is `TerminalChat`?
