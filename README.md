@@ -3,7 +3,7 @@
 ## What is `TerminalChat`?
 Website: [Terminal-chat.com](https://terminal-chat.com/).
 
-TerminalChat is a completely anonymous terminal thru chat.<br>
+TerminalChat is a completely anonymous terminal through chat.<br>
 TerminalChat uses custom framework and hashing algorithms for it's security and offers its anonymity via not saving chat-logs and
 ip's.<br>
 
