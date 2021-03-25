@@ -92,7 +92,7 @@ More info is on [Terminal-chat.com/vip](https://terminal-chat.com/vip).
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824602090499473438/Untitled-6.png)
 
 #### DamienDarhk
-- [Terminal-chat.com](https://terminal-chat.com/) Developer. <br>
+- [Terminal-chat.com](https://terminal-chat.com/) Graphical Designer. <br>
 
 #### UbuntuMonke
 - Project Manager
@@ -102,7 +102,6 @@ More info is on [Terminal-chat.com/vip](https://terminal-chat.com/vip).
 - Fanatic into web hacking<br>
 
 #### reckendheck
-- Has a rtx 3070
 - Server Administrator
 - Networker<br>
 
