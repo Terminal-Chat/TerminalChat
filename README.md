@@ -13,7 +13,7 @@ It's something like tor chatrooms, but it's thru terminal with few topics more t
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824601182805688330/Untitled-4.png)
 
--Python 3.6
+- Python 3.8
 
 ## Platforms
 We support:
@@ -24,7 +24,7 @@ We support:
 
 ## Windows
 
-Firstly you need to install [Python 3.6](https://www.pytorials.com/python-download-install-windows/).
+Firstly you need to install [Python 3.8](https://www.pytorials.com/python-download-install-windows/).
 then Download this [repository](https://github.com/Terminal-Chat).
 and run the connection script in cmd following command:
 ```
@@ -91,31 +91,27 @@ More info is on [Terminal-chat.com/vip](https://terminal-chat.com/vip).
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824602090499473438/Untitled-6.png)
 
-###### DamienDarhk
+#### DamienDarhk
+- [Terminal-chat.com](https://terminal-chat.com/) Developer. <br>
 
-Shaman, THG and [Terminal-chat.com/](https://terminal-chat.com/) developer. 
+#### UbuntuMonke
+- Project Manager
+- server Administrator<br>
 
-###### UbuntuMonke
+#### PzKpfw
+- Fanatic into web hacking<br>
 
-Project manager, server administrator.
+#### reckendheck
+- Server Administrator
+- Networker<br>
 
-###### PzKpfw
+#### RedstonedLife
+- Python Developer
+- Custom Framework Developer<br>
 
-Fanatic into web hacking.
+#### roombabot
+- Networker<br>
 
-###### reckendheck
-
-Server administrator, networker.
-
-###### RedstonedLife
-
-Python developer, custom framework.
-
-###### roombabot
-
-Networker.
-
-###### Kip
-
-Python developer.
+#### Kip
+- Python Developer
 
