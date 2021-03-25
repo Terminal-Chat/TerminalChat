@@ -15,7 +15,7 @@ It's something like tor chatrooms, but it's thru terminal with few topics more t
 
 - Python 3.8
 
-## Platforms
+###### Platforms
 We support:
 -Windows cmd
 -Linux and MacOs terminal
