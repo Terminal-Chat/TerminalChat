@@ -16,12 +16,11 @@ It's something like tor chatrooms, but it's thru terminal with few topics more t
 - Python 3.8
 
 ###### Platforms
-We support
-
+-
 Windows cmd
-
+-
 Linux terminal  
-
+-
 MacOs terminal
 
 
