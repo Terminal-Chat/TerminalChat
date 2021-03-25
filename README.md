@@ -40,7 +40,7 @@ We can download and clone repository with these commands:
 ```
 apt install python3.6
 apt install git
-git clone https://github.com/Terminal-Chat/
+git clone https://github.com/Terminal-Chat/TerminalChat.git
 python3 connect.py
 ```
 
@@ -51,7 +51,7 @@ We can download and clone repository with these commands:
 ```
 pacman -S python3 
 pacman -S git
-git clone https://github.com/Terminal-chat/
+git clone https://github.com/Terminal-Chat/TerminalChat.git
 python3 connect.py
 ```
 
@@ -60,7 +60,7 @@ python3 connect.py
 ```
 dnf install python3
 dnf install git
-git clone https://github.com/Terminal-chat/
+git clone https://github.com/Terminal-Chat/TerminalChat.git
 python3 connect.py
 ```
 
@@ -69,7 +69,7 @@ python3 connect.py
 ```
 brew install python3
 brew install git
-git clone https://github.com/Terminal-chat
+git clone https://github.com/Terminal-Chat/TerminalChat.git
 python3 connect.py
 ```
 
@@ -86,7 +86,7 @@ python3 connect.py
 ## Nicknames
 
 Nicknames can be reserved, since your nickname can use anyone when you leave.
-You can reserve your nickname by Purchasing VIP and setting password for it. 
+You can reserve your nickname by Purchasing VIP and setting a password for it. 
 More info is on [Terminal-chat.com/vip](https://terminal-chat.com/vip).
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824602090499473438/Untitled-6.png)
