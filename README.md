@@ -8,7 +8,7 @@ TerminalChat uses custom framework and hashing algorithms for it's security and 
 ip's.<br>
 
 
-We offer fully anonymous chatroom service thru our own framework and server, and very easy to setup it up.
+We offer fully anonymous chatroom service through our own framework and server, and very easy to set it up.
 It's something like tor chatrooms, but it's thru terminal with few topics.
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824601182805688330/Untitled-4.png)
