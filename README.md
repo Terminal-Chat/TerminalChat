@@ -21,7 +21,9 @@ We support
 Windows cmd
 
 Linux terminal  
+
 MacOs terminal
+
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824601178804322344/Untitled-1.png)
 
