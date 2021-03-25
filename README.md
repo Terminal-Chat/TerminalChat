@@ -42,7 +42,7 @@ apt update && sudo apt upgrade
 apt install python3.6
 apt install git
 git clone https://github.com/Terminal-Chat/
-python connect.py
+python3 connect.py
 ```
 
 ###### Arch
@@ -53,7 +53,7 @@ We can download and clone repository with these commands:
 pacman -S python3 
 pacman -S git
 git clone https://github.com/Terminal-chat/
-python connect.py
+python3 connect.py
 ```
 
 ###### Fedora
@@ -62,7 +62,7 @@ python connect.py
 dnf install python3
 yum install git
 git clone https://github.com/Terminal-chat/
-python connect.py
+python3 connect.py
 ```
 
 ## MacOs
@@ -71,7 +71,7 @@ python connect.py
 brew install python3
 brew install git
 git clone https://github.com/Terminal-chat
-python connect.py
+python3 connect.py
 ```
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824602086422478898/Untitled-5.png)
