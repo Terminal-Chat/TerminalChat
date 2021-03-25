@@ -60,7 +60,7 @@ python3 connect.py
 
 ```
 dnf install python3
-yum install git
+dnf install git
 git clone https://github.com/Terminal-chat/
 python3 connect.py
 ```
