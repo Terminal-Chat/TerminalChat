@@ -19,6 +19,7 @@ It's something like tor chatrooms, but it's thru terminal with few topics more t
 We support
 
 Windows cmd
+
 Linux terminal  
 MacOs terminal
 
