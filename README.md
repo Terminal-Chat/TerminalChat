@@ -106,7 +106,6 @@ More info is on [Terminal-chat.com/vip](https://terminal-chat.com/vip).
 - Fanatic into web hacking<br>
 
 #### reckendheck
-- Has a rtx 3070
 - Server Administrator
 - Networker<br>
 
