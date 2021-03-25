@@ -1,14 +1,122 @@
-![](https://media.discordapp.net/attachments/824045796156112896/824314563050471464/Terminal_Chat_banner.png)
+![](https://cdn.discordapp.com/attachments/824045796156112896/824585891334717461/827x149.png)
 
 ## What is `TerminalChat`?
+Website: [Terminal-chat.com](https://terminal-chat.com/).
 
-TerminalChat is a completely anonymous terminal chat.<br>
+TerminalChat is a completely anonymous terminal thru chat.<br>
 TerminalChat uses custom framework and hashing algorithms for it's security and offers its anonymity via not saving chat-logs and
 ip's.<br>
 
-We offer fully anonymous chatroom service thru our own framework and server, and extremly easy to setup.
-It's something like tor chatrooms, but it's thru terminal with few topics
 
-## How it works?
+We offer fully anonymous chatroom service thru our own framework and server, and very easy to setup it up.
+It's something like tor chatrooms, but it's thru terminal with few topics more topics.
 
+![](https://cdn.discordapp.com/attachments/824045796156112896/824601182805688330/Untitled-4.png)
+
+-Python 3.6
+
+## Platforms
+We support:
+-Windows cmd
+-Linux and MacOs terminal
+
+![](https://cdn.discordapp.com/attachments/824045796156112896/824601178804322344/Untitled-1.png)
+
+## Windows
+
+Firstly you need to install [Python 3.6](https://www.pytorials.com/python-download-install-windows/).
+then Download this [repository](https://github.com/Terminal-Chat).
+and run the connection script in cmd following command:
+```
+python connect.py
+```
+
+## Linux
+
+###### Debian/Ubuntu
+
+We can download and clone repository with these commands:
+
+```
+apt update && sudo apt upgrade
+apt install python3.6
+apt install git
+git clone https://github.com/Terminal-Chat/
+python connect.py
+```
+
+###### Arch
+
+We can download and clone repository with these commands:
+
+```
+pacman -S python3sudo 
+pacman -S Git
+git clone https://github.com/Terminal-chat/
+python connect.py
+```
+
+###### Fedora
+
+```
+dnf install python3
+yum install git
+git clone https://github.com/Terminal-chat/
+python connect.py
+```
+
+## MacOs
+
+```
+brew install python3
+brew install git
+git clone https://github.com/Terminal-chat
+python connect.py
+```
+
+![](https://cdn.discordapp.com/attachments/824045796156112896/824602086422478898/Untitled-5.png)
+
+## Available chatrooms:
+
+| Chatrooms    | Platforms          |
+| -------------|:------------------:|
+| General      | cross platform     |
+| Coding       | cross platform     |
+| Hacking      | Linux devices only |
+
+## Nicknames
+
+Nicknames can be reserved, since your nickname can use anyone when you leave.
+You can reserve your nickname by Purchasing VIP and setting password for it. 
+More info is on [Terminal-chat.com/vip](https://terminal-chat.com/vip).
+
+![](https://cdn.discordapp.com/attachments/824045796156112896/824602090499473438/Untitled-6.png)
+
+###### DamienDarhk
+
+Shaman, THG and [Terminal-chat.com/](https://terminal-chat.com/) developer. 
+
+###### UbuntuMonke
+
+Project manager, server administrator.
+
+###### PzKpfw
+
+Fanatic into web hacking.
+
+###### reckendheck
+
+Server administrator, networker.
+
+###### RedstonedLife
+
+Python developer, custom framework.
+
+###### roombabot
+
+Networker.
+
+###### Kip
+
+Python developer.
 
