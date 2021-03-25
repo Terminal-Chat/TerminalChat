@@ -9,6 +9,6 @@ ip's.<br>
 We offer fully anonymous chatroom service thru our own framework and server, and extremly easy to setup.
 It's something like tor chatrooms, but it's thru terminal with few topics
 
-#How it works?
+## How it works?
 
 
