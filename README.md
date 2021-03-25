@@ -50,8 +50,8 @@ python connect.py
 We can download and clone repository with these commands:
 
 ```
-pacman -S python3sudo 
-pacman -S Git
+pacman -S python3 
+pacman -S git
 git clone https://github.com/Terminal-chat/
 python connect.py
 ```
