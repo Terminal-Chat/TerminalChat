@@ -9,7 +9,7 @@ ip's.<br>
 
 
 We offer fully anonymous chatroom service thru our own framework and server, and very easy to setup it up.
-It's something like tor chatrooms, but it's thru terminal with few topics more topics.
+It's something like tor chatrooms, but it's thru terminal with few topics.
 
 ![](https://cdn.discordapp.com/attachments/824045796156112896/824601182805688330/Untitled-4.png)
 
