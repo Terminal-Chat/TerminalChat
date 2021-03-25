@@ -38,7 +38,6 @@ python connect.py
 We can download and clone repository with these commands:
 
 ```
-apt update && sudo apt upgrade
 apt install python3.6
 apt install git
 git clone https://github.com/Terminal-Chat/
